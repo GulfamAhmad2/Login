@@ -1,4 +1,4 @@
-# Login singe page
+# Login page
 - [Live](https://loginwithgulfam.netlify.app/)
 - Full responsive using formik, yup and reactjs
 
